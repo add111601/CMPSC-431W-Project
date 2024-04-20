@@ -5,7 +5,5 @@ This project incorporates PostgreSQL into a command line interface using the Pyt
 1. The first thing to do is download the file main.py. This file contains everything that is needed to run the Command Line Interface.
 2. Then download all the csv files for all the tables.
 3. Import those csv files into a database
-4. Once that is all done install psycopg2
-Line 1
-`pip install psycopg2-binary`
-Line 1
+4. Once that is all done install psycopg2 <br />
+`pip install psycopg2-binary` <br />
