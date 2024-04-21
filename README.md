@@ -16,7 +16,13 @@ Navigate to the directory that has the main.py file<br />
 
 ### If you have only Python 3 installed run:
 `python main.py` <br />
-### If you have multiple version of Python installed run:
+### If you have multiple versions of Python installed run:
 `python3 main.py` <br />
 
 ## Go to the videos directory if you are having any trouble with how to use the CLI
+<br />
+The videos will be labeled with what they will be showing in the CLI (each main section). <br />
+The weapon's section video will go into a bit more detail about the options that <br />
+you may encounter in the CLI, and if the same things come up again in another video <br />
+they will likely just be brushed over, so if you are having any trouble figuring something <br />
+out please refer back to the video titled "Weapons" going over that section.
