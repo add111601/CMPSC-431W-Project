@@ -28,24 +28,24 @@ they will likely just be brushed over, so if you are having any trouble figuring
 out please refer back to the video titled "Weapons" going over that section. <br />
 
 ### Starting the CLI
-[Link text](https://youtu.be/9152AKPj0CY)
+[Youtube Video: Starting CLI](https://youtu.be/9152AKPj0CY)
 ### Weapons
-[Link text](https://youtu.be/cRgUdfdzNOY)
+[Youtube Video: Weapons](https://youtu.be/cRgUdfdzNOY)
 ### Codes
-[Link text](https://youtu.be/vSVUJprj33g)
+[Youtube Video: Codes](https://youtu.be/vSVUJprj33g)
 ### Locations
-[Link text](https://youtu.be/hxVNbBb74Wc)
+[Youtube Video: Location](https://youtu.be/hxVNbBb74Wc)
 ### Areas
-[Link text](https://youtu.be/wyAy-z3QJl4)
+[Youtube Video: Area](https://youtu.be/wyAy-z3QJl4)
 ### Police
-[Link text](https://youtu.be/-EFPRuhReuI)
+[Youtube Video: Police](https://youtu.be/-EFPRuhReuI)
 ### Victims
-[Link text](https://youtu.be/PwSsn8S6WNc)
+[Youtube Video: Victims](https://youtu.be/PwSsn8S6WNc)
 ### Crimes
-[Link text](https://youtu.be/GmUCGnvDqrA)
+[Youtube Video: Crime](https://youtu.be/GmUCGnvDqrA)
 ### Insert Data
-[Link text](https://youtu.be/rWT_z_MplD0)
+[Youtube Video: Insert](https://youtu.be/rWT_z_MplD0)
 ### Update Data
-[Link text](https://youtu.be/qBrEQzIkXC4)
+[Youtube Video: Update](https://youtu.be/qBrEQzIkXC4)
 ### Delete Data and Exit Session
-[Link text](https://youtu.be/Ps6c4ClZTao)
+[Youtube Video: Delete and Close](https://youtu.be/Ps6c4ClZTao)
