@@ -2001,7 +2001,7 @@ Select the column to delete from:
 				break
 		elif(ch == 2):
 			col = int(input("""
-Select the column to update:
+Select the column to delete from:
 	1. DR_NO
 	2. Age
 	3. Sex
@@ -2037,7 +2037,7 @@ Select the column to update:
 				break
 		elif(ch == 3):
 			col = int(input("""
-Select the column to update:
+Select the column to delete from:
 	1. Crime_Code
 	2. Crime_Code_Desc
 	3. Mocodes
@@ -2057,7 +2057,7 @@ Select the column to update:
 				break
 		elif(ch == 4):
 			col = int(input("""
-Select the column to update:
+Select the column to delete from:
 	1. Area
 	2. Area Name
 	3. Premis
@@ -2077,7 +2077,7 @@ Select the column to update:
 				break
 		elif(ch == 5):
 			col = int(input("""
-Select the column to update:
+Select the column to delete from:
 	1. Status
 	2. Status Description\n"""))
 			cond = input("Enter the condition: ")
@@ -2090,7 +2090,7 @@ Select the column to update:
 
 		elif(ch == 6):
 			col = int(input("""
-Select the column to update:
+Select the column to delete from:
 	1. Weapon
 	2. Weapon Description\n"""))
 			cond = input("Enter the condition: ")
@@ -2103,7 +2103,7 @@ Select the column to update:
 		else:
 			print("Invalid response. Please enter again")
 			ch = int(input("""
-What table would you like to update:
+What table would you like to delete from:
 	1. Crime
 	2. VicLoc
 	3. Codes
