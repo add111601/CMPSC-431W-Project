@@ -25,4 +25,27 @@ The videos will be labeled with what they will be showing in the CLI (each main 
 The weapon's section video will go into a bit more detail about the options that <br />
 you may encounter in the CLI, and if the same things come up again in another video <br />
 they will likely just be brushed over, so if you are having any trouble figuring something <br />
-out please refer back to the video titled "Weapons" going over that section.
+out please refer back to the video titled "Weapons" going over that section. <br />
+
+### Starting the CLI
+[Link text](https://youtu.be/9152AKPj0CY)
+### Weapons
+[Link text](https://youtu.be/cRgUdfdzNOY)
+### Codes
+[Link text](https://youtu.be/vSVUJprj33g)
+### Locations
+[Link text](https://youtu.be/hxVNbBb74Wc)
+### Areas
+[Link text](https://youtu.be/wyAy-z3QJl4)
+### Police
+[Link text](https://youtu.be/-EFPRuhReuI)
+### Victims
+[Link text](https://youtu.be/PwSsn8S6WNc)
+### Crimes
+[Link text](https://youtu.be/GmUCGnvDqrA)
+### Insert Data
+[Link text](https://youtu.be/rWT_z_MplD0)
+### Update Data
+[Link text](https://youtu.be/qBrEQzIkXC4)
+### Delete Data and Exit Session
+[Link text](https://youtu.be/Ps6c4ClZTao)
