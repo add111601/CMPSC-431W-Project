@@ -19,6 +19,9 @@ Navigate to the directory that has the main.py file<br />
 ### If you have multiple versions of Python installed run:
 `python3 main.py` <br />
 
+## Check out the documentation here:
+[Documentation](/Documentation.pdf)
+
 ## Go to the videos directory if you are having any trouble with how to use the CLI
 <br />
 The videos will be labeled with what they will be showing in the CLI (each main section). <br />
